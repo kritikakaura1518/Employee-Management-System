@@ -5,7 +5,7 @@ Technologies used : java, swing, tomcat, mysql, Eclipse.
 <body>
  <p>Working-></p>
  <p>1. First, a welcome page will appear</p>
- <img src="login_page.jpg">
+ <img src="login_page.png">
  <br>
  
 
