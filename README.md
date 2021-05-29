@@ -7,7 +7,7 @@ Technologies used : java, swing, tomcat, mysql, Eclipse.
  <p>1. First, a Welcome page will open and will redirect to the login page</p>
  <img src="login_page.png"></img>
  <br>
- <p>2. Login page will open and if you enter wrong username or password it will show alert.
+ <p>2. Login page will open and if you enter wrong username or password it will show alert.</p>
  <img src="invalid.png"></img>
  <br>
  <p>3. Now the admin can perform these functions ie. view, add, update and delete</p>
