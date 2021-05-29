@@ -5,7 +5,7 @@ Technologies used : java, swing, tomcat, mysql, Eclipse.
 <body>
  <h3>Working-></h3>
  <p>1. First, a Welcome page will open and will redirect to the login page</p>
- <img src="screenshots/login_page.png" height="200px;" width="200px;"></img>
+ <img src="screenshots/login_page.png" height="300px;" width="500px;"></img>
  <br>
  <p>2. Login page will open and if you enter wrong username or password it will show alert.</p>
  <img src="screenshots/invalid.png"></img>
