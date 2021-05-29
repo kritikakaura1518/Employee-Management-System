@@ -3,7 +3,7 @@ A java based backend project which maintains the information about the personal 
 Technologies used : java, swing, tomcat, mysql, Eclipse.
 
 <body>
- <p>Working-></p>
+ <h3>Working-></h3>
  <p>1. First, a Welcome page will open and will redirect to the login page</p>
  <img src="screenshots/login_page.png"></img>
  <br>
