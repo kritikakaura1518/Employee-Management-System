@@ -11,7 +11,7 @@ Technologies used : java, swing, tomcat, mysql, Eclipse.
  <img src="screenshots/invalid.png"></img>
  <br>
  <p>3. Now the admin can perform these functions ie. view, add, update and delete</p>
- <img src="screenshots/details.png"></img>
+ <img src="screenshots/details.png" height="400;"></img>
  </body>
 <br>
 <hr>
